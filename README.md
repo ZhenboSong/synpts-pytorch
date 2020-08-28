@@ -16,7 +16,7 @@ An example is illustrated bellow:
 ![](readme_image/1living_room.gif)
 
 
-##Dataset
+## Dataset
 - SUN3D dataset re-orgnized by [DeMoN](https://lmb.informatik.uni-freiburg.de/people/ummenhof/depthmotionnet/).
 - ICL-NUIM synthesis dataset, the example data is available (700M) [here](https://drive.google.com/file/d/1sqoSOMFt6MlIJvcEK70b14EO1cQeZ8WG/view?usp=sharing)
 - [invsfm](https://github.com/francescopittaluga/invsfm) dataset generated from NYU-V2, the demo data can be download (11G) [here](https://drive.google.com/open?id=1StpUiEauckZcxHZeBzoq6L2K7pcB9v3E).
@@ -56,13 +56,10 @@ Note: The model is trained using DeMoN SUN3D indoor dataset, and the training da
 ## Citation
 If you use this code/model for your research, please cite the following paper:
 ```
-@misc{mildenhall2020nerf,
-    title={NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis},
-    author={Ben Mildenhall and Pratul P. Srinivasan and Matthew Tancik and Jonathan T. Barron and Ravi Ramamoorthi and Ren Ng},
+@misc{song2020,
+    title={Deep View Synthesis from Colored 3D Point Clouds},
+    author={Zhenbo Song and Wayne Chen and Dylan Campbell and Hongdong Li},
     year={2020},
-    eprint={2003.08934},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
 }
 ```
 
