@@ -67,5 +67,5 @@ If you use this code/model for your research, please cite the following paper:
 ## References
 The code is based on the ['EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning'](https://github.com/knazeri/edge-connect)
 
-The PointNet++ impletementation is from [Pointnet2.PyTorch]((https://github.com/sshaoshuai/Pointnet2.PyTorch))
+The PointNet++ impletementation is from [Pointnet2.PyTorch](https://github.com/sshaoshuai/Pointnet2.PyTorch)
 
