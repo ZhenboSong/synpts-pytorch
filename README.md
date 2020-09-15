@@ -25,7 +25,7 @@ An example is illustrated bellow:
 ## Quick Start.
 
 ### Install Dependencies
-- PyTorch>=1.2
+- PyTorch=1.2
 - opencv-python
 - numpy
 
